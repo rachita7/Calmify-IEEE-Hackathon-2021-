@@ -210,10 +210,10 @@ class HowAreYou extends StatelessWidget {
                         var max= -999;
                         var positive;
 
-                        //final sentiment = Sentiment();
+                        final sentiment = Sentiment();
                         for(var i=0; i<lendict; i++){
-                          var sentence;
-                          //var sentence= (sentiment.analysis(dict[i], emoji: true));
+                          //var sentence;
+                          var sentence= (sentiment.analysis(dict[i], emoji: true));
                           var score=sentence['score'];
                           if(score>max)
                           {
