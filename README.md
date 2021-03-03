@@ -6,7 +6,7 @@ Best Women in Tech Hack at iNTUition v7.0
 ## Inspiration: 
 Mental health of people was severely affected during circuit-breaker period as many people were forced to stay away from their friends and family. 
 
-## What it does do: 
+## What it does: 
 This app focuses on the niche area of self-care in order to uplift the spirit of the user and to make him feel better about himself and his beautiful life. 
 
 ## How I built it: 
